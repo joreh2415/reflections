@@ -1,2 +1,3 @@
 when you initialize a repository git adds a .git file to the directory. This is necessary because this file keeps track of all commits made.
 the staging area is different from the working directory and the repository because it is a temporary hold for files that have changed. This is valuable because this lets you only commit only what you need to, and make sure what you are commiting before doing so.
+One can use the staging area to ensure they are making one commit per logical change becuase it allows them to view what they are adding/changing so that they can review it before a commit
