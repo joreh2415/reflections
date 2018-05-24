@@ -1,0 +1,5 @@
+5/9/18 Viewing a diff between two versions helped me to spot bugs because it showed exactly what was wrong
+5/10/18 Automatic commits on a version control system means that unnecessary commits will happen at times when they are not needed, but this way there is no chance of user error. While user error is a large problem for manual commits, they are good because this way commits happen when the user needs them. 
+5/10/18 Version control systems allow saving multiple files in one commit because some applications need multiple files to run properly. Version control systems such as google docs do not do this because they are not necessarily meant for coding, so saving multiple files at a time is not a needed feature.
+Using the commands git log allows the user to see the ID's and quick messages of every commit that is on the repository, using the git diff command the user can see the differences of each one of these different commits
+Using version control would make me more confident to make changes because if anything goes wrong when I run the code I can always look back over what I changed and see what is wrong.
