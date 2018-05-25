@@ -1,3 +1,5 @@
 when you initialize a repository git adds a .git file to the directory. This is necessary because this file keeps track of all commits made.
 the staging area is different from the working directory and the repository because it is a temporary hold for files that have changed. This is valuable because this lets you only commit only what you need to, and make sure what you are commiting before doing so.
 One can use the staging area to ensure they are making one commit per logical change becuase it allows them to view what they are adding/changing so that they can review it before a commit
+Branches would help coding because it allows for you to make changes safely and not ruin the rest of the code. This helps organize as well because the changes stay localized to the branch so this keeps code changes away from the master allowing for each to idependly exist.
+Diagrams help me to visualize branches because seeing the two different versions seperated instead of just visualizing it helps a lot.
