@@ -1,0 +1,1 @@
+Using a remote repository shiould be used over local when you want work with multiple people or use multiple devices to code. This way no matter who wants to make changes, or from what device to they want to make changes on, the code can be added to the repository.
