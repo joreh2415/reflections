@@ -2,3 +2,4 @@ Using a remote repository should be used over local when you want work with mult
 You might want to always manually pull changes from github because you may or may not be ready to add things to your code from github. Other reasons could include that someone made a change to the code on github that you need to prepare for on your files, like say if there will be a conflict or something
 Forks are a copy of a repository made and stored on github. A clone is a copy of repository that copies from github to a local machine. A branch is another version of the main code/program that is stored within git.
 the benefit of having the last known state of the remote stored locally is that if the additional code from github causes a conflict with the local code, so then you can fall back on your copy without the worry of breaking you code.
+Without using git or github I would most likely just email files back and forth. Git/GitHub is clearly the better format.
